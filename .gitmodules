@@ -1,0 +1,3 @@
+[submodule "Red9"]
+	path = Red9
+	url = git@github.com:markj3d/Red9_StudioPack.git
